@@ -1,5 +1,5 @@
 Landmark
-simon
+Mercy Kum
 dominion
 Ayo
 Peter

@@ -316,3 +316,8 @@ git remote add pay https://github.com/PeakLandTech/Paypal
 git remot -v
 git remote -v
 git log
+clear
+git romte -v
+git remote -v
+git log
+git push pay master
